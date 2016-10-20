@@ -1,0 +1,9 @@
+Security Concern:
+Nefarious actor could add/delete/edit tickets resulting in inaccurate analysis and diagnosis of threat cause or location. 
+In order to reduce the availability of tickets to outside sources, analysis of data should be done within current system, i.e. Remedy. 
+-	Requirements Specification: Remedy shall be extended in order to include analysis and diagnostic tools. 
+
+Safety Concern:
+User misinterprets data, resulting in a misdiagnosis of the cause of the problem. 
+In order to reduce misinterpretation of analysis, proper data visualization tools and techniques should be implemented. 
+-	Requirements Specification: System shall implement data visualization tools that portray multidimensional data in a coherent and unambiguous way. 
